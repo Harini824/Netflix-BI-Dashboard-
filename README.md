@@ -9,8 +9,6 @@ This dashboard aims to help understand what type of content dominates Netflix, h
 
 Dataset Name: Netflix Titles Dataset
 
-File: netflix_titles_cleaned.csv
-
 Source: Kaggle / Netflix dataset
 
 Records: 8,800+ titles
